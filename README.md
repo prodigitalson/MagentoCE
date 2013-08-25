@@ -1,0 +1,4 @@
+magento-ce
+==========
+
+Magento CE
